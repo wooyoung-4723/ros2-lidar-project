@@ -45,7 +45,7 @@ ros2 launch my_robot_pkg my_launch.py
 ### 2. 원격 PC 실행 (Windows)
 
 ```id="3hf8la"
-python remote/move_decision.py
+python publisher/move_decision.py
 ```
 
 ---
@@ -88,7 +88,6 @@ python remote/move_decision.py
 
 * JSON 형태의 ranges 데이터를
 * 360개의 컬럼으로 변환
-* 머신러닝 학습 데이터로 활용 가능
 
 ---
 
@@ -107,7 +106,6 @@ CREATE TABLE lidardata (
 
 ## 🔥 향후 계획
 
-* 자율주행 머신러닝 모델 적용
 * 실제 로봇 연동
 * 데이터 시각화 (대시보드)
 
