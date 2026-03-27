@@ -103,6 +103,7 @@ CREATE TABLE lidardata (
 ```
 
 ---
+<img width="576" height="597" alt="image" src="https://github.com/user-attachments/assets/4132319b-61d8-4c72-9203-edf318d37fb7" />
 
 ## 🔥 향후 계획
 
